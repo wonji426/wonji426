@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 <!--
 **wonji426/wonji426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

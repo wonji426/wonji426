@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35&desc=JIWON's%20GITHUB&descAlign=60&fontColor=ffffff)
 
 <!--
 **wonji426/wonji426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
